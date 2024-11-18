@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\repos\Student Grades\ConsoleApp3\ConsoleApp3\obj\Debug\ne
 C:\Users\micha\Desktop\repos\Student Grades\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
 C:\Users\micha\Desktop\repos\Student Grades\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
 C:\Users\micha\Desktop\repos\Student Grades\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
+C:\Users\micha\Desktop\repos\Student Grades\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
